@@ -21,7 +21,7 @@ public class SampleController : ControllerBase
         var data = await _sampleService.GetSamples();
         if (data == null || !data.Any())
         {
-            return NotFound("No clients found");
+            return NotFound("No samples found");
         }
 
         return Ok(data);
@@ -46,7 +46,7 @@ public class SampleController : ControllerBase
         var data = await _sampleService.UpdateSample(sample, id);
         if (data == null)
         {
-            return NotFound("no Client with this id");
+            return NotFound("no Sample with this id");
         }
 
         return Ok(data);
@@ -58,9 +58,9 @@ public class SampleController : ControllerBase
         var result = await _sampleService.DeleteSample(id);
         if (result is null)
         {
-            return NotFound("Client not found");
+            return NotFound("Sample not found");
         }
 
-        return Ok("Client Deleted");
+        return Ok("Sample Deleted");
     }
 }
