@@ -1,4 +1,6 @@
+using AutoMapper;
 using Backend.Data;
+using Backend.ViewModels.Clients;
 using Microsoft.EntityFrameworkCore;
 
 namespace Backend.Services.Clients;
@@ -6,10 +8,12 @@ namespace Backend.Services.Clients;
 public class ClientService : IClientService
 {
     private readonly DataContext _context;
+    private readonly IMapper _mapper;
 
-    public ClientService(DataContext context)
+    public ClientService(DataContext context, IMapper mapper)
     {
         _context = context;
+        _mapper = mapper;
     }
 
     public async Task<List<Models.Clients.Clients>> GetClients()
@@ -26,8 +30,12 @@ public class ClientService : IClientService
 
     public async Task<Models.Clients.Clients>? UpdateClient(Models.Clients.Clients client, int id)
     {
+        // var clientInDb = _mapper.Map<Models.Clients.Clients>(client);
+        // clientInDb.Id = id;
+        // _context.Clients.Update(clientInDb);
+        // await _context.SaveChangesAsync();
+        // return clientInDb;
         var clientToUpdate = await _context.Clients.FindAsync(id);
-        // var clientToUpdate = Clients.Find(x => x.Id == id);
         if (clientToUpdate == null)
         {
             return null;
@@ -43,6 +51,7 @@ public class ClientService : IClientService
 
         await _context.SaveChangesAsync();
         return clientToUpdate;
+        
     }
 
 

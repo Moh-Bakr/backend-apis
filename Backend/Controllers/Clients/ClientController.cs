@@ -42,7 +42,7 @@ public class ClientController : ControllerBase
             return NotFound("no Client with this id");
         }
 
-        return Ok(data);
+        return Ok("Client updated");
     }
 
     [HttpDelete("{id}")]

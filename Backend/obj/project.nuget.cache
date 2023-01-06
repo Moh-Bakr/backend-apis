@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xFlYnyAgM5AcbR6PffzOhKo9g4xfaTQX4Kg3/7uS8d5/OIcWDi7SbG7xli8U4lkdj2EjSpymTb4D3FdNeIDYAg==",
+  "dgSpecHash": "kQFP+WPn12F4x0/2Qvu2KTRtmqD7F0nkEeWOSSLyLG5lmUUVDxMMApRnbbKaJ+/rLyvgZmL1zQa+2krXv7rjqg==",
   "success": true,
   "projectFilePath": "/media/bakr/New Volume/Backend/Backend/Backend.csproj",
   "expectedPackageFiles": [
+    "/home/bakr/.nuget/packages/automapper/12.0.0/automapper.12.0.0.nupkg.sha512",
+    "/home/bakr/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.0/automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "/home/bakr/.nuget/packages/entityframework/6.4.4/entityframework.6.4.4.nupkg.sha512",
     "/home/bakr/.nuget/packages/google.protobuf/3.19.4/google.protobuf.3.19.4.nupkg.sha512",
     "/home/bakr/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

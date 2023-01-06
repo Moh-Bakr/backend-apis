@@ -158,3 +158,5 @@
 /media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.pdb
 /media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.genruntimeconfig.cache
 /media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/ref/Backend.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/AutoMapper.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll

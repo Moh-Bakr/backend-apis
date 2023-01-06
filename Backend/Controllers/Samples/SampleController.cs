@@ -49,7 +49,7 @@ public class SampleController : ControllerBase
             return NotFound("no Sample with this id");
         }
 
-        return Ok(data);
+        return Ok("Sample updated");
     }
 
     [HttpDelete("{id}")]
