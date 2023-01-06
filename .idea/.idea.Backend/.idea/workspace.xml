@@ -6,8 +6,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f34eed6c-8a10-478c-8e41-be2a8a3b3150" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Backend/Controllers/Samples/SampleController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/Migrations/20230106141000_SampleTable.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/Migrations/20230106141000_SampleTable.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/Models/Sample/Sample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/Services/Samples/ISampleService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/Services/Samples/SampleService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Backend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/Controllers/Clients/ClientsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Controllers/Clients/ClientController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Data/DataContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/Migrations/DataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Migrations/DataContextModelSnapshot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/Services/Clients/ClientService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Services/Clients/ClientService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/Services/Clients/IClientService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Services/Clients/IClientService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/Backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/Backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/Backend.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/ref/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/ref/Backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/refint/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/refint/Backend.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +59,7 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/b46370a777754a10a0287aa1551b11d3174c00/9a/5961069f/Client.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b4aa9d6deee74e2a511d54506de2de864a4b58ad22637cbbc79ef58cb10e3e9/ConfigurationExtensions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -60,11 +80,10 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/media/bakr/Bld/WebApplication1",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "HotReloadSettingsPage",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -125,7 +144,8 @@
       <updated>1672955497838</updated>
       <workItem from="1672955497839" duration="3548000" />
       <workItem from="1673002333577" duration="1251000" />
-      <workItem from="1673005211429" duration="1099000" />
+      <workItem from="1673005211429" duration="6383000" />
+      <workItem from="1673013193039" duration="2135000" />
     </task>
     <servers />
   </component>

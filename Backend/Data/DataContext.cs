@@ -1,3 +1,5 @@
+using Backend.Models.Sample;
+
 namespace Backend.Data;
 
 using Backend.Models.Clients;
@@ -19,4 +21,5 @@ public class DataContext : DbContext
     }
 
     public DbSet<Clients> Clients { get; set; }
+    public DbSet<Sample> Samples { get; set; }
 }
