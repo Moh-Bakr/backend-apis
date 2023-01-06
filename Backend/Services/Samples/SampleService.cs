@@ -40,6 +40,7 @@ public class SampleService : ISampleService
         sampleToUpdate.qutaity = sample.qutaity;
         sampleToUpdate.extra = sample.extra;
         sampleToUpdate.price = sample.price;
+        sampleToUpdate.status = sample.status;
         
         await _context.SaveChangesAsync();
         return sampleToUpdate;

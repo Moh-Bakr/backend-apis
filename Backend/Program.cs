@@ -17,7 +17,6 @@ builder.Services.AddCors(options =>
                 .AllowAnyHeader();
         });
 });
-// Add services to the container.
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();

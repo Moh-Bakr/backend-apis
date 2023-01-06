@@ -12,4 +12,5 @@ public class Sample
     [Required] public string qutaity { get; set; }
     public string? extra { get; set; }
     [Required] public string price { get; set; }
+    [Required] public string status { get; set; }
 }
