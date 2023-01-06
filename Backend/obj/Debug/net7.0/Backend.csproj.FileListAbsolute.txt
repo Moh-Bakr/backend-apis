@@ -1,0 +1,160 @@
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/appsettings.Development.json
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/appsettings.json
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Backend
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Backend.deps.json
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Backend.runtimeconfig.json
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Backend.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Backend.pdb
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.csproj.AssemblyReference.cache
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.AssemblyInfoInputs.cache
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.AssemblyInfo.cs
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.csproj.CoreCompileInputs.cache
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.MvcApplicationPartsAssemblyInfo.cs
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.MvcApplicationPartsAssemblyInfo.cache
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/staticwebassets/msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.Backend.props
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Backend.props
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Backend.props
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/scopedcss/bundle/Backend.styles.css
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.csproj.CopyComplete
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.dll
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/refint/Backend.dll
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.pdb
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/Backend.genruntimeconfig.cache
+/media/bakr/Bld/NET/Backend/Backend/obj/Debug/net7.0/ref/Backend.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/EntityFramework.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Google.Protobuf.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Humanizer.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Web.Razor.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Web.Helpers.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Web.WebPages.Deployment.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Web.WebPages.Razor.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Web.WebPages.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/WebMatrix.Data.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/WebMatrix.WebData.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Microsoft.Web.Infrastructure.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/MySql.Data.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/ZstdNet.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/MySql.Data.EntityFramework.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/MySql.Data.EntityFrameworkCore.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/MySql.Web.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/MySqlConnector.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Data.SqlClient.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Drawing.Common.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/System.Windows.Extensions.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/bakr/Bld/NET/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/appsettings.Development.json
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/appsettings.json
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Backend
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Backend.deps.json
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Backend.runtimeconfig.json
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Backend.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Backend.pdb
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/EntityFramework.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Google.Protobuf.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Humanizer.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Web.Razor.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Web.Helpers.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Web.WebPages.Deployment.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Web.WebPages.Razor.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Web.WebPages.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/WebMatrix.Data.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/WebMatrix.WebData.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Microsoft.Web.Infrastructure.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Mono.TextTemplating.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/MySql.Data.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/ZstdNet.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/MySql.Data.EntityFramework.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/MySql.Data.EntityFrameworkCore.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/MySql.Web.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/MySqlConnector.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.CodeDom.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Data.SqlClient.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Drawing.Common.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Security.Permissions.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/System.Windows.Extensions.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/bakr/New Volume/Backend/Backend/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.csproj.AssemblyReference.cache
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.GeneratedMSBuildEditorConfig.editorconfig
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.AssemblyInfoInputs.cache
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.AssemblyInfo.cs
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.csproj.CoreCompileInputs.cache
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.MvcApplicationPartsAssemblyInfo.cs
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.MvcApplicationPartsAssemblyInfo.cache
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/staticwebassets/msbuild.Backend.Microsoft.AspNetCore.StaticWebAssets.props
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/staticwebassets/msbuild.build.Backend.props
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Backend.props
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Backend.props
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/staticwebassets.pack.json
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/staticwebassets.build.json
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/staticwebassets.development.json
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/scopedcss/bundle/Backend.styles.css
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.csproj.CopyComplete
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.dll
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/refint/Backend.dll
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.pdb
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/Backend.genruntimeconfig.cache
+/media/bakr/New Volume/Backend/Backend/obj/Debug/net7.0/ref/Backend.dll
