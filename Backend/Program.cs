@@ -3,8 +3,20 @@ using Backend.Data;
 using Backend.Services.Clients;
 using Backend.Services.Samples;
 
+var policyName = "_myAllowSpecificOrigins";
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: policyName,
+        builder =>
+        {
+            builder
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+        });
+});
 // Add services to the container.
 
 builder.Services.AddControllers();
@@ -19,7 +31,7 @@ app.UseSwagger();
 app.UseSwaggerUI();
 
 app.UseHttpsRedirection();
-
+app.UseCors(policyName);
 app.UseAuthorization();
 
 app.MapControllers();

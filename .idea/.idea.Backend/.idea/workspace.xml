@@ -6,27 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f34eed6c-8a10-478c-8e41-be2a8a3b3150" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Backend/Controllers/Samples/SampleController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/Migrations/20230106141000_SampleTable.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/Migrations/20230106141000_SampleTable.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/Models/Sample/Sample.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/Services/Samples/ISampleService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backend/Services/Samples/SampleService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Controllers/Clients/ClientsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Controllers/Clients/ClientController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Data/DataContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Data/DataContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Migrations/DataContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Migrations/DataContextModelSnapshot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Services/Clients/ClientService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Services/Clients/ClientService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Services/Clients/IClientService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Services/Clients/IClientService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/Backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/Backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/Backend.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/Backend.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/ref/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/ref/Backend.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/refint/Backend.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/obj/Debug/net7.0/refint/Backend.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/appsettings.Development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/appsettings.Development.json" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/bin/Debug/net7.0/appsettings.Development.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +128,7 @@
       <workItem from="1672955497839" duration="3548000" />
       <workItem from="1673002333577" duration="1251000" />
       <workItem from="1673005211429" duration="6383000" />
-      <workItem from="1673013193039" duration="2135000" />
+      <workItem from="1673013193039" duration="3245000" />
     </task>
     <servers />
   </component>
