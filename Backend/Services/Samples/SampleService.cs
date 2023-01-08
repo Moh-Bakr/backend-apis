@@ -13,9 +13,15 @@ public class SampleService : ISampleService
         _context = context;
     }
 
+
     public async Task<List<Sample>> GetSamples()
     {
         return await _context.Samples.ToListAsync();
+    }
+
+    public async Task<IEnumerable<Sample>> SearchSampleByName(string name)
+    {
+        return await _context.Samples.Where(x => x.client_name.Contains(name)).ToListAsync();
     }
 
     public async Task<Sample> CreateSample(Sample sample)
@@ -41,7 +47,7 @@ public class SampleService : ISampleService
         sampleToUpdate.extra = sample.extra;
         sampleToUpdate.price = sample.price;
         sampleToUpdate.status = sample.status;
-        
+
         await _context.SaveChangesAsync();
         return sampleToUpdate;
     }

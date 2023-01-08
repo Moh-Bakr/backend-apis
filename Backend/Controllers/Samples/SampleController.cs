@@ -27,6 +27,18 @@ public class SampleController : ControllerBase
         return Ok(data);
     }
 
+    [HttpGet("{name}")]
+    public async Task<ActionResult<Sample>> GetSample(string name)
+    {
+        var data = await _sampleService.SearchSampleByName(name);
+        if (data == null)
+        {
+            return NotFound($"Sample {name} not found");
+        }
+
+        return Ok(data);
+    }
+    
     [HttpPost]
     public async Task<ActionResult<Sample>> CreateSample(Sample sample)
     {

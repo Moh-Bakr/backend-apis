@@ -1,5 +1,6 @@
 using AutoMapper;
 using Backend.Data;
+using Backend.Helper;
 using Backend.ViewModels.Clients;
 using Microsoft.EntityFrameworkCore;
 
@@ -21,8 +22,24 @@ public class ClientService : IClientService
         return await _context.Clients.ToListAsync();
     }
 
+    public async Task<Models.Clients.Clients> GetClientByCode(string code)
+    {
+        var client = await _context.Clients.FirstOrDefaultAsync(x => x.code == code);
+        if (client == null)
+        {
+            return null;
+        }
+
+        return client;
+    }
+
     public async Task<Models.Clients.Clients> CreateClient(Models.Clients.Clients client)
     {
+        var clientExists = await _context.Clients.FirstOrDefaultAsync(x => x.code == client.code);
+        if (clientExists != null)
+        {
+            return null;
+        }
         _context.Clients.Add(client);
         await _context.SaveChangesAsync();
         return client;
@@ -30,11 +47,6 @@ public class ClientService : IClientService
 
     public async Task<Models.Clients.Clients>? UpdateClient(Models.Clients.Clients client, int id)
     {
-        // var clientInDb = _mapper.Map<Models.Clients.Clients>(client);
-        // clientInDb.Id = id;
-        // _context.Clients.Update(clientInDb);
-        // await _context.SaveChangesAsync();
-        // return clientInDb;
         var clientToUpdate = await _context.Clients.FindAsync(id);
         if (clientToUpdate == null)
         {
@@ -51,7 +63,6 @@ public class ClientService : IClientService
 
         await _context.SaveChangesAsync();
         return clientToUpdate;
-        
     }
 
 

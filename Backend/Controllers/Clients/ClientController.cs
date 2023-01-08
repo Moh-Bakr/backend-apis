@@ -25,11 +25,28 @@ public class ClientController : ControllerBase
         }
         return Ok(data);
     }
+    
+    
+    
+    [HttpGet("{code}")]
+    public async Task<ActionResult<Models.Clients.Clients>> GetClientByCode(string code)
+    {
+        var data = await _clientService.GetClientByCode(code);
+        if (data == null)
+        {
+            return NotFound("Client not found");
+        }
+        return Ok(data);
+    }
 
     [HttpPost]
     public async Task<ActionResult<Models.Clients.Clients>> CreateClient(Models.Clients.Clients client)
     {
         var result = await _clientService.CreateClient(client);
+        if (result == null)
+        {
+            return BadRequest("Clients with this code already exists");
+        }
         return Ok(result);
     }
 

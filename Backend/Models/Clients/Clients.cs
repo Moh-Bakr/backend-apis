@@ -11,5 +11,5 @@ public class Clients
     public string? Phone { get; set; }
     [Required] public string Mobile { get; set; }
     public string? Address { get; set; }
-    [Required] public string code { get; set; }
+    [Required]  public string code { get; set; }
 }
