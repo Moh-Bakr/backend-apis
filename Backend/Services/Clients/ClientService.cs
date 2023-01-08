@@ -22,15 +22,9 @@ public class ClientService : IClientService
         return await _context.Clients.ToListAsync();
     }
 
-    public async Task<Models.Clients.Clients> GetClientByCode(string code)
+    public async Task<IEnumerable<Models.Clients.Clients>> GetClientByCode(string name)
     {
-        var client = await _context.Clients.FirstOrDefaultAsync(x => x.code == code);
-        if (client == null)
-        {
-            return null;
-        }
-
-        return client;
+        return await _context.Clients.Where(x => x.code.Contains(name)).ToListAsync();
     }
 
     public async Task<Models.Clients.Clients> CreateClient(Models.Clients.Clients client)

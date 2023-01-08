@@ -29,13 +29,14 @@ public class ClientController : ControllerBase
     
     
     [HttpGet("{code}")]
-    public async Task<ActionResult<Models.Clients.Clients>> GetClientByCode(string code)
+    public async Task<ActionResult<Models.Clients.Clients>> GetSample(string code)
     {
         var data = await _clientService.GetClientByCode(code);
         if (data == null)
         {
-            return NotFound("Client not found");
+            return NotFound($"Client {code} not found");
         }
+
         return Ok(data);
     }
 
